@@ -1,0 +1,1 @@
+nodemon --experimental-modules --loader ./loader3.mjs ./index.js
